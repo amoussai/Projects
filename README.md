@@ -1,8 +1,7 @@
 # Projects
-Personal Projects
 You find in this git repository my personal project.
 
-## Projet 1 (/!\ Not finished /!\\):
+## Project 1 (/!\ Not finished /!\\):
 short study of a use case in NLP.
 - Data processing (clean, tokenization ...)
 - Vectorization
